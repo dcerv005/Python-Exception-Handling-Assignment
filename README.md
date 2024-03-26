@@ -1,0 +1,1 @@
+This is the assignment for Module 2 Lesson 7: Python Exception Handling.
